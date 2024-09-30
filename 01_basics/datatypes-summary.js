@@ -31,5 +31,6 @@ let myDetails = {
 const myFunction = function() {
     console.log("Hello World");
 }
-
+sonsole.log(typeof myFunction); // type--> Object Function
 console.log(typeof anotherID);
+
