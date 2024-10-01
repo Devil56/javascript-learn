@@ -57,7 +57,3 @@ let userTwo = userOne
 userTwo.email = "amirkhan@gmail.com"
 console.log(userTwo);
 console.log(userOne );
-
-
-
-
